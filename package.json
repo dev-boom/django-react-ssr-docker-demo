@@ -1,0 +1,17 @@
+{
+  "name": "code",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "esm": "^3.2.25",
+    "parcel-bundler": "^1.12.4",
+    "react": "^16.11.0",
+    "react-dom": "^16.11.0",
+    "react-helmet": "^5.2.1",
+    "styled-jsx": "^3.2.3"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.7.2"
+  }
+}
